@@ -1,0 +1,3 @@
+2024-03-21 13:13:48 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PUBLISHER" not found; SQL statement:
+Drop table publisher [42102-214]
